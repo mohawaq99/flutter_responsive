@@ -113,3 +113,5 @@ class MobileScreen extends StatelessWidget {
 // 9. Merge master with my current branch
 
 // 10. push changes
+
+// add text on top of the buttons
