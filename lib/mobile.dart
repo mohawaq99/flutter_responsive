@@ -104,4 +104,6 @@ class MobileScreen extends StatelessWidget {
 
 // 5. commit changes
 
-// 6. push
+// 6. checkout master
+
+// 7. push
