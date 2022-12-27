@@ -41,6 +41,14 @@ class MobileScreen extends StatelessWidget {
                           border: OutlineInputBorder(), labelText: "Password"),
                     ),
                     SizedBox(
+                      height: 20,
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 10),
+                      child: Text("If you don't have an account press on Register"),
+                    ),
+
+                    SizedBox(
                       height: 40,
                     ),
                     Row(
